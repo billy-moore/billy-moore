@@ -5,7 +5,7 @@
 - 🌱  I’m currently learning ...
  -- always React
  -- Material-UI
- -- Backend insanity
+ -- MERN stack
  
 <!-- - 💞️ I’m looking to collaborate on ...
 
