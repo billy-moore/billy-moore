@@ -4,9 +4,9 @@
 - 👀   I am currently working on a full-stack project that integrates cocktails and movies. It pulls from 2 separate APIs and allows for user engagement, using MongoDB, Express, React, and Node, and updating my Portfolio
 
 - 🌱  I’m currently learning ...
-  - always programming - REACT and MERN
-  - reading, I'm on book 4 and 5 of my 5x5 for 2022**
-  - attempting to relearn the guitar. Playing songs for my kids, mostly 
+  - Programming - :memo: REACT and MERN
+  - Reading - :books: I'm on book 4 and 5 of my 5x5 for 2022**
+  - Learning - :guitar: attempting to relearn the guitar. Playing songs for my kids, mostly 
  
 <!-- - 💞️ I’m looking to collaborate on ...
 -->
