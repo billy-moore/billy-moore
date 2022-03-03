@@ -6,7 +6,7 @@
 - 🌱  I’m currently learning ...
   - Programming - :memo: REACT and MERN
   - Reading - :books: I'm on book 4 and 5 of my 5x5 for 2022**
-  - Learning - :guitar: attempting to relearn the guitar. Playing songs for my kids, mostly 
+  - Creative - :guitar: attempting to relearn the guitar. Playing songs for my kids, mostly 
  
 <!-- - 💞️ I’m looking to collaborate on ...
 -->
