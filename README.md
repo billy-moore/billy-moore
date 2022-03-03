@@ -1,7 +1,6 @@
 - 👋   Hi, I’m @billy-moore
  -- Husband, Dad, day-time librarian, night-time programmer, weekend cleaner of the garage.
-- 👀   I’m interested in ...
- -- I want to make things. I love creating and writing and designing and want to make new things. I am currently working on Frontend Development but will eventually learn MERN and do full stack work, at least for my own projects.
+- 👀   I am currently working on a full-stack project that integrates cocktails and movies. It pulls from 2 separate APIs and allows for user engagement, using MongoDB, Express, React, and Node 
 - 🌱  I’m currently learning ...
  -- always React
  -- Material-UI
